@@ -1,4 +1,4 @@
-## Close No Cigar
+## SonicPi_pbj
 This is a basic Sonic Pi app, that creates music. This exercise is meant to show how you should break bigger problems up into small chunks.   
 
 Installation:
